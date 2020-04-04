@@ -1,11 +1,11 @@
 # Site settings
 author: Sergey Zolotukhin
-title: 
+title: Coding? Sounds interesting...
 header-img: img/home-bg.png
 email: zolotukhinsereg@gmail.com
 copyright_name: Sergey Zolotukhin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The coding journey starts now... the train is departing from station A
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sergezolo
