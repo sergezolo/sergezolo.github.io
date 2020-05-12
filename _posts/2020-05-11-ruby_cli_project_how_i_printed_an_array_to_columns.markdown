@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby CLI Project. How I printed an array to columns."
-date:       2020-05-12 01:51:17 +0000
+date:       2020-05-11 21:51:18 -0400
 permalink:  ruby_cli_project_how_i_printed_an_array_to_columns
 ---
 
@@ -45,7 +45,8 @@ array_2 = []
 
 array.each.with_index(1) do |item, index|
    piece = (("#{index}. " + "#{item}").to_s + " " * 15)[0,17]
-   #here I was adding 15 spaces to the end of each item(word) and cut it to a length of 17 symbols counting from the first (0). I played with the length of each item to have a pleasing spacing for displaying the data. 
+   #here I was adding 15 spaces to the end of each item(word) and cut it to a length of 17 symbols counting 
+	 from the first (0). I played with the length of each item to have a pleasing spacing for displaying the data. 
 	array_1 << piece
 end
 
