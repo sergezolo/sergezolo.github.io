@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "React-Redux. Easy life search bar."
-date:       2021-02-01 03:56:04 +0000
+title:      "React-Redux. Easy life search."
+date:       2021-01-31 22:56:05 -0500
 permalink:  react-redux_easy_life_search_bar
 ---
 
